@@ -1,0 +1,2 @@
+# Hyperliquid-Trader-Behavior-Analysis-Using-Market-Sentiment
+Hyperliquid Trader Behavior Analysis Using Market Sentiment is a data analytics project that explores how market sentiment influences trader behavior and trading outcomes.  The project combines historical trading data from Hyperliquid traders with the Fear &amp; Greed sentiment index to understand how emotions in the market impact trading activity.
